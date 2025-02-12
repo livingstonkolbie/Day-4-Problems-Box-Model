@@ -1,0 +1,20 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+  }
+
+  .card {
+    border: 3px solid rgb(83, 118, 29);
+    width: 250px;
+    padding: 30px;
+    display: inline-block;
+  }
+
+  .cardTwo {
+    border: 6px solid chocolate;
+    width: 250px;
+    padding: 15px;
+    display: inline-block;
+    margin-left: -60px;
+    background-color: rgba(127, 255, 212, 0.73);
+
+  }
