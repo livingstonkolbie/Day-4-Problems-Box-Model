@@ -1,0 +1,33 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+.box {
+    border: 3px solid purple;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    margin: 10px;
+    background-color: lightcyan;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.boxKolton {
+    border: 3px solid purple;
+    width: 600px;
+    height: 200px;
+    padding: 40px;
+    margin: 50px;
+    background-color: lightcyan;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.box h2 {
+    margin-top: 0;
+}
+
+.boxKolton h2 {
+    margin-top: 0;
+}
