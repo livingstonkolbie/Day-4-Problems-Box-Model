@@ -1,0 +1,22 @@
+
+.boxOne {
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    margin: 20px;
+    display: inline-block;
+    vertical-align: top;
+    box-sizing: border-box;
+}
+
+.boxTwo {
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    margin: 20px;
+    display: inline-block;
+    vertical-align: top;
+    box-sizing: content-box;
+}
